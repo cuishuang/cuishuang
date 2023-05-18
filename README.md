@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In 2021, I made 8719 contributions and modified 100 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/cuishuang
+Obsessed with studying the underlying principles
