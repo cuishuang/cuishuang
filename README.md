@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Obsessed with studying the underlying principles
+Obsessed with studying the underlying principles.
+
+Go语言开发者，爱好者。 Go语言贡献者前100(外围contributor, 正积极深入). 欢迎探讨
+
+微信公众号: 旅途散记
